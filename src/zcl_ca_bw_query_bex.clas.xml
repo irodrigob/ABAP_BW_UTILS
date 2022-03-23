@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+    <LANGU>S</LANGU>
+    <DESCRIPT>CA - BW - Utilidades Query Bex</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>BUILD_INTERNAL_TABLE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Construcción de la tabla interna para los datos</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>CLEAR_GLOBAL_VAR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Limpieza de variables globales</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>CONVERT_CHARACT_NAME</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Convierte el nombre de la característica</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>CONVERT_QUERY_DATA_2_ITAB</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Convierte los valores de la query a una tabla interna</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>EXECUTE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Ejecutar query</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>FILL_ITAB_DATA</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Relleno de datos en la tabla interna</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>GET_CHARACT_DETAIL</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Obtiene el detalle de las carácterísticas</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>GET_NUMBER_CHARACT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Número de características</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>GET_NUMBER_KEY_FIGURE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Número de ratios o figuras clave</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>GET_QUERY_DATA</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Obtener valores de la query</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>GET_ROWS_DATA</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Obtiene los datos de las filas</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_BW_QUERY_BEX</CLSNAME>
+     <CMPNAME>SET_PARAMETERS</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Guarda los parámetros</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
