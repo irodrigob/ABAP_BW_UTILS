@@ -6,7 +6,7 @@ La recopilación de objetos es la siguiente:
 
 # Clase ZCL_CA_BW_QUERY_BEX
 
-Esta clase obtiene los datos de una Query Bex. Estas querys se generán con el Query Designer y pueden ser utilizidas por vía oData.
+Esta clase obtiene los datos de una Query Bex. Estas querys se generán con el Query Designer y pueden ser utilizidas por vía oData. Esta clase es mejorable pero es un punto de partida para una necesidad que tenía en un cliente.
 
 Los métodos principales son:
 
